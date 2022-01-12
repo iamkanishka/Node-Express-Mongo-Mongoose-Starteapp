@@ -52,6 +52,7 @@ To deploy this project on heroku  run
   git push heroku master
 ```
 
+Note:- When the Project is in the Development Mode, Define the Envireonment Varaibles in the .env Files, but when the Projects Gets in to Production then you need to set it in the Github Secrets,   The Environment Variables are Declared in the Github Secret
 
 ## Badges
 
